@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'webappportalex'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01B9D1AC400241EC9D3DC50AEC928F96 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06C1C421C0294406843DBB11E8D18D70 }}
           package: .
